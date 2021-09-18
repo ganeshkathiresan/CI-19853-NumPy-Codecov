@@ -1,4 +1,4 @@
-me: Example workflow for Codecov
+name: Example workflow for Codecov
 on: [push, pull_request]
 jobs:
   run:
