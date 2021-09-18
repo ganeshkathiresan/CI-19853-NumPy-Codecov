@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/ganeshkathiresan/CI-19853-NumPy-Codecov/branch/master/graph/badge.svg?token=HT1ISS7MHT)](https://codecov.io/gh/ganeshkathiresan/CI-19853-NumPy-Codecov)
+
 Full credit to https://github.com/ptracesecurity/pytest-example (Thanks Gianni Gnesa), copied as is to test codecov
 
 # pytest-example
